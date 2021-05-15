@@ -1,0 +1,35 @@
+.mainapp{
+    position: absolute;
+    border: 1px solid white;
+    margin-top: 3%;
+    left: 40%;
+    text-align: center;
+    width: 300px;
+    height: 350px;
+    background-color: lightblue;
+    margin-left: 50px;
+}
+
+.humidity {
+    margin: 3px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.pressure {
+    margin: 3px;
+    font-family: 'Barlow', sans-serif;
+}
+
+
+.location{
+    font-size: 30px;
+    margin: 20px;
+    font-family: 'Barlow', sans-serif;
+}
+.temp{
+    font-family: 'Barlow', sans-serif;
+}
+
+.time{
+    font-family: 'Barlow', sans-serif;
+}
