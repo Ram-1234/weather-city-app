@@ -124,7 +124,7 @@ main{
 
 .creater{
     position: relative;
-    top: 280px;
+    top: auto;
     color: #fff;
     font-style: italic;
     font-weight: 700;
