@@ -8,7 +8,7 @@ Hosted Link:  https://ram-1234.github.io/weather-city-app/
 
 1- Firstly open a hompage where only have search inputbox.
 
-2- Anter any city name in the given inputbox and then press Enter button.
+2- Enter any city name in the given inputbox and then press Enter button.
 
 3- After Pressing enter button you will get weather information about given city name.
 
